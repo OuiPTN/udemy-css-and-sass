@@ -1,4 +1,4 @@
-# udemy-advanced-css-and-sass
+# udemy-css-and-sass
 
 Udemy - Advanced CSS and Sass: Flexbox, Grid, Animations and More!
 
